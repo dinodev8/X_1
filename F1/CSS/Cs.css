@@ -1,0 +1,18 @@
+body {
+  background-color: #ffffff;
+  background-image: url(../Images/im1.jpg);
+  background-size: cover;
+}
+#centre {
+  text-align: center;
+}
+.bg {
+  color: cyan;
+  font: italic;
+}
+p {
+  font-size: x-large;
+}
+#imge {
+  align-items: center;
+}
